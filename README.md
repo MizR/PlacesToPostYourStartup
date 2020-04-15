@@ -28,32 +28,32 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 
 # Websites
 * 10words - https://10words.io ✅ months wait
-* All My Faves - http://www.allmyfaves.com/
+* All My Faves - http://www.allmyfaves.com/ ❌ not useful
 * All Startups - http://www.allstartups.info/Startups/Submit ✅ 60 days wait
-* All Top Startups - http://alltopstartups.com/submit-startup/
-* Alternative To - http://alternativeto.net/
-* App 400 - http://apps400.com/
-* App Advice - http://appadvice.com/page/about-us
-* App Appeal - http://www.appappeal.com/contact/suggest
-* App Rater - https://apprater.net/add/
-* Appcrawlr - http://appcrawlr.com/
-* Appoid - http://appiod.com/submit-app-for-review/
-* appPicker - http://www.apppicker.com/
-* Apps 400 - http://apps400.com/submit-your-application-for-review
-* Apps Listo - http://appslisto.com/submit-your-app/
-* Apps Mamma - http://appsmamma.com/submit-your-app/
-* Apps Mirror - http://www.appsmirror.com/submit-your-app-for-review
-* AppsNow - http://appsnow.us/submit-app-for-review/
-* AppsThunder - http://appsthunder.com/submit-your-app/
-* AppStorm - http://appstorm.net/
-* Appvita - http://www.appvita.com/
-* AppZapp - http://www.appzapp.net/en/app-review-request/
-* Arctic Startup - http://arcticstartup.com/
-* Beta Bound - http://www.betabound.com/announce/
+* All Top Startups - http://alltopstartups.com/submit-startup/ 💵 $89
+* Alternative To - http://alternativeto.net/ ❌ not useful at this moment
+* App 400 - http://apps400.com/ 💵 $99
+* App Advice - http://appadvice.com/page/about-us ❌ not useful. Only for iOS
+* App Appeal - http://www.appappeal.com/contact/suggest ❌ not useful.
+* App Rater - https://apprater.net/add/ ✅ in moderation, if certain conditions are met will be approved soon.
+* Appcrawlr - http://appcrawlr.com/ ❌ mobile apps only
+* Appoid - http://appiod.com/submit-app-for-review/ ✅ submitted
+* appPicker - http://www.apppicker.com/ ❌ not sure how to submit
+* Apps 400 - http://apps400.com/submit-your-application-for-review ❌duplicate
+* Apps Listo - http://appslisto.com/submit-your-app/ ✅ submitted
+* Apps Mamma - http://appsmamma.com/submit-your-app/ ✅ submitted
+* Apps Mirror - http://www.appsmirror.com/submit-your-app-for-review ❌duplicate
+* AppsNow - http://appsnow.us/submit-app-for-review/ ❌ not available
+* AppsThunder - http://appsthunder.com/submit-your-app/ ✅ submitted
+* AppStorm - http://appstorm.net/ ❌duplicate
+* Appvita - http://www.appvita.com/ ❌ Review site
+* AppZapp - http://www.appzapp.net/en/app-review-request/ ❌ mobile app
+* Arctic Startup - http://arcticstartup.com/ ✅ submitted
+* Beta Bound - http://www.betabound.com/announce/ ✅ submitted
 * Beta Page - https://betapage.co/ ✅ 30-40 days wait. 
-* Betafy - https://www.betafy.co/easysignup/startup
+* Betafy - https://www.betafy.co/easysignup/startup ✅ submitted
 * BetaList - https://betalist.com/submit
-* Beterest - https://beterest.com/submit-startup/
+* Beterest - https://beterest.com/submit-startup/ ✅ 2-3 weeks
 * Boing Boing - http://boingboing.net/sub/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
