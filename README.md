@@ -27,7 +27,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 [Back to Top](#places-to-post-your-startup)
 
 # Websites
-* 10words - https://10words.io
+* 10words - https://10words.io ✅ months wait
 * All My Faves - http://www.allmyfaves.com/
 * All Startups - http://www.allstartups.info/Startups/Submit
 * All Top Startups - http://alltopstartups.com/submit-startup/
@@ -50,7 +50,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * AppZapp - http://www.appzapp.net/en/app-review-request/
 * Arctic Startup - http://arcticstartup.com/
 * Beta Bound - http://www.betabound.com/announce/
-* Beta Page - https://betapage.co/
+* Beta Page - https://betapage.co/ 30-40 days wait. 
 * Betafy - https://www.betafy.co/easysignup/startup
 * BetaList - https://betalist.com/submit
 * Beterest - https://beterest.com/submit-startup/
