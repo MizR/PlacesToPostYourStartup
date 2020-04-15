@@ -29,7 +29,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 # Websites
 * 10words - https://10words.io ✅ months wait
 * All My Faves - http://www.allmyfaves.com/
-* All Startups - http://www.allstartups.info/Startups/Submit
+* All Startups - http://www.allstartups.info/Startups/Submit ✅ 60 days wait
 * All Top Startups - http://alltopstartups.com/submit-startup/
 * Alternative To - http://alternativeto.net/
 * App 400 - http://apps400.com/
@@ -50,7 +50,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * AppZapp - http://www.appzapp.net/en/app-review-request/
 * Arctic Startup - http://arcticstartup.com/
 * Beta Bound - http://www.betabound.com/announce/
-* Beta Page - https://betapage.co/ 30-40 days wait. 
+* Beta Page - https://betapage.co/ ✅ 30-40 days wait. 
 * Betafy - https://www.betafy.co/easysignup/startup
 * BetaList - https://betalist.com/submit
 * Beterest - https://beterest.com/submit-startup/
