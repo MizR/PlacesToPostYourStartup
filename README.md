@@ -52,7 +52,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Beta Bound - http://www.betabound.com/announce/ ✅ submitted
 * Beta Page - https://betapage.co/ ✅ 30-40 days wait. 
 * Betafy - https://www.betafy.co/easysignup/startup ✅ submitted
-* BetaList - https://betalist.com/submit
+* BetaList - https://betalist.com/submit ✅ submitted
 * Beterest - https://beterest.com/submit-startup/ ✅ 2-3 weeks
 * Boing Boing - http://boingboing.net/sub/ ⚠️ Submission page down
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip ⚠️ Site down
@@ -73,8 +73,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Feed My App - https://feedmyapp.com/submit/ ⚠️ paid service. starting from $1.99 
 * G2 Crowd - https://www.g2crowd.com/products/new
 * Geek Wire - http://geekwire.com/startup-list/ ⚠️ will submit after company registration
-* Get App - http://getapp.com/
-* Getworm - https://getworm.com/submit-startup
+* Get App - http://getapp.com/ ❌ not useful
+* Getworm - https://getworm.com/submit-startup  ✅ submitted
 * Gust - https://www.gust.com ❌ startup registration and funding
 * Hackerstreet - https://in.thehackerstreet.com/ ❌ blog
 * Haro - https://www.helpareporter.com/sources/ ⚠️ after launch
@@ -94,36 +94,36 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Mobilzed - https://www.moblized.com/vendors/register
 * Netted - https://www.netted.net/contact-us/
 * Next Big Product - http://nextbigproduct.net/product-submission/
-* Next Big What - http://nextbigwhat.com/
-* On the App - http://ontheapp.com/about/
-* Paggu - http://www.paggu.com/submit-your-startup/
+* Next Big What - http://nextbigwhat.com/   ✅ submitted
+* On the App - http://ontheapp.com/about/ ❌ unavailable
+* Paggu - http://www.paggu.com/submit-your-startup/ ⚠️ after launch
 * pFind - http://www.pfind.com/submit
 * Postscapes - http://about.postscapes.com/tools
 * PreApps - http://www.preapps.com/
 * Product Hunt - http://www.producthunt.com/
 * Programmable Web - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
-* PublicityX - https://www.publicityx.com/startups/new
-* Robingood - http://tools.robingood.com/
-* SaaSHub - https://www.saashub.com/
-* Saasified - https://saasified.co
+* PublicityX - https://www.publicityx.com/startups/new ✅ submitted
+* Robingood - http://tools.robingood.com/ ✅ submitted
+* SaaSHub - https://www.saashub.com/  ⚠️ after launch
+* Saasified - https://saasified.co  ⚠️ after launch
 * Show HN - https://news.ycombinator.com/showhn.html
 * Side Projectors - https://www.sideprojectors.com ✅ submitted
-* SideProjects - https://sideprojects.net
+* SideProjects - https://sideprojects.net ✅ submitted
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * Slant - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
 * Software Advice - https://softwareadvice-markets.questionpro.com/
 * Springwise - http://springwise.com/tipus/
 * Stack Share - http://stackshare.io/
-* Starter Story - https://starterstory.com/
-* Startup 88 - https://startup88.com/
-* Startup Base - https://startupbase.io/submit
+* Starter Story - https://starterstory.com/ ❌ not working
+* Startup 88 - https://startup88.com/ ✅ submitted
+* Startup Base - https://startupbase.io/submit ⚠️ after launch
 * Startup Beat - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
-* Startup Benchmarks - https://www.startupbenchmarks.com/
-* Startup Buffer - http://startupbuffer.com
-* Startup Collections - http://startupcollections.com/
-* Startup Dope - http://startupdope.com/submit-news/
-* Startup Inspire - https://www.startupinspire.com/submit
+* Startup Benchmarks - https://www.startupbenchmarks.com/ ❌ broken
+* Startup Buffer - http://startupbuffer.com ✅ submitted
+* Startup Collections - http://startupcollections.com/ ⚠️ after  launch
+* Startup Dope - http://startupdope.com/submit-news/ ⚠️ after launch
+* Startup Inspire - https://www.startupinspire.com/submit ✅ submitted
 * Startup Lift - http://www.startuplift.com/
 * Startup Ranking - http://www.startupranking.com/
 * Startup Register - http://startupregister.net/register-your-startup/
