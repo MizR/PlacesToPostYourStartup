@@ -54,8 +54,8 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Betafy - https://www.betafy.co/easysignup/startup ✅ submitted
 * BetaList - https://betalist.com/submit
 * Beterest - https://beterest.com/submit-startup/ ✅ 2-3 weeks
-* Boing Boing - http://boingboing.net/sub/
-* BuiltInChicago - http://www.builtinchicago.org/send-us-tip
+* Boing Boing - http://boingboing.net/sub/ ⚠️ Submission page down
+* BuiltInChicago - http://www.builtinchicago.org/send-us-tip ⚠️ Site down
 * Capterra - http://www.capterra.com/vendors/sign-up
 * CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
 * Cnet - https://upload.cnet.com/
@@ -68,27 +68,27 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * Digg - http://digg.com/submit
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
-* Erlibird - https://erlibird.com/beta-testing
+* Erlibird - https://erlibird.com/beta-testing ❌ premium service
 * F6S - http://www.f6s.com/
-* Feed My App - https://feedmyapp.com/submit/
+* Feed My App - https://feedmyapp.com/submit/ ⚠️ paid service. starting from $1.99 
 * G2 Crowd - https://www.g2crowd.com/products/new
-* Geek Wire - http://geekwire.com/startup-list/
+* Geek Wire - http://geekwire.com/startup-list/ ⚠️ will submit after company registration
 * Get App - http://getapp.com/
 * Getworm - https://getworm.com/submit-startup
-* Gust - https://www.gust.com
-* Hackerstreet - https://in.thehackerstreet.com/
-* Haro - https://www.helpareporter.com/sources/
-* I Am Wire - http://www.iamwire.com/startups/user/register?uType=Entrepreneur
-* Idea Hunt - http://ideahunt.io/
-* Inc 42 - https://inc42.com/startup-submission/
-* Index.co - https://index.co/startup
+* Gust - https://www.gust.com ❌ startup registration and funding
+* Hackerstreet - https://in.thehackerstreet.com/ ❌ blog
+* Haro - https://www.helpareporter.com/sources/ ⚠️ after launch
+* I Am Wire - http://www.iamwire.com/startups/user/register?uType=Entrepreneur  ❌ startup registration and funding
+* Idea Hunt - http://ideahunt.io/ ❌ unrelated
+* Inc 42 - https://inc42.com/startup-submission/  ⚠️ after launch
+* Index.co - https://index.co/startup  ❌ startup funding
 * Indie Hackers - https://www.indiehackers.com/
-* Killer Startups - http://killerstartups.com/submit-startup/
-* Land-book - https://land-book.com/guidelines
-* Launch List - https://launchlister.com/submit-startup
-* Launched - https://launched.io/SubmitStartup
-* Launching Next - http://www.launchingnext.com/submit/
-* Loop - https://app.loopinput.com/ 
+* Killer Startups - http://killerstartups.com/submit-startup/ ⚠️ after launch
+* Land-book - https://land-book.com/guidelines ⚠️ after launch
+* Launch List - https://launchlister.com/submit-startup ❌ paid $49
+* Launched - https://launched.io/SubmitStartup ⚠️ after launch
+* Launching Next - http://www.launchingnext.com/submit/ ⚠️ after launch
+* Loop - https://app.loopinput.com/  ❌ not useful
 * MakeUseOf - http://www.makeuseof.com/about/
 * Maqtoob - https://maqtoob.com/submit-a-tool
 * Mobilzed - https://www.moblized.com/vendors/register
