@@ -10,7 +10,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 [Sub-Reddits](#reddit) | [Websites](#websites) | [License](#license)
 
 # Reddit
-* /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/
+* /r/AlphaandBetausers - https://www.reddit.com/r/alphaandbetausers/ ✅
 * /r/Coupons - https://www.reddit.com/r/coupons/
 * /r/Design_Critiques - https://www.reddit.com/r/design_critiques/ ✅
 * /r/Entrepreneur - http://reddit.com/r/entrepreneur
